@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace TeamPowered
 {
-    class Program
+    class Team
     {
-        static void Main(string[] args)
-        {
-            Console.Write("Bing");
-            Console.Read();
-        }
     }
 }
